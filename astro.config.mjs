@@ -14,7 +14,6 @@ export default defineConfig({
       },
       customCss: ["./src/styles/custom.css"],
       pagination: false,
-      attrs: { target: '_blank', style: 'font-style: italic' },
     }),
   ],
   site: "https://notes.miryang.dev",
