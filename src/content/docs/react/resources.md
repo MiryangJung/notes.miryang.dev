@@ -7,6 +7,7 @@ description: React.js 자료 모음
 
 - [Vercel에서 제작한 React 학습 자료](https://nextjs.org/learn/react-foundations)
 - [시각적으로 설명한 react](https://react.gg/visualized)
+- [푸딩캠프: React에 입문하기](https://puddingcamp.com/topic/getting-started-with-react)
 
 ## 볼 영상들
 
